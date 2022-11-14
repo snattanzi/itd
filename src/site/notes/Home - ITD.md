@@ -18,4 +18,4 @@
 
 [[Incitec/Lezioni\|Lezioni]]
 
-[[Introduzione alla trasformazione digitale\|Introduzione alla trasformazione digitale]]
+[[Introduzione alla trasformazione digitale\|Materiale didattico]]
