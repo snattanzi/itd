@@ -16,8 +16,8 @@ L’Obiettivo è quello, quindi, di introdurre le principali tematiche legate al
 
 - [[Materiale didattico/1.1 Transizione digitale\|1.1 Transizione digitale]]
 - [[Materiale didattico/1.2 Business Intelligence\|1.2 Business Intelligence]]
-- [[Materiale didattico/1.3 KPI\|1.3 KPI]]
 - [[Materiale didattico/1.4 CPS\|1.4 CPS]]
+- [[Materiale didattico/1.3 KPI\|1.3 KPI]]
 - [[Materiale didattico/1.5 Smartfactory\|1.5 Smartfactory]]
 
 ---
