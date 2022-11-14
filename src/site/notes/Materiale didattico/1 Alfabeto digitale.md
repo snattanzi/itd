@@ -8,12 +8,7 @@ L’attività formativa “01. alfabeto digitale”, componente del corso di for
 
 L’Obiettivo è quello, quindi, di introdurre le principali tematiche legate all’industria 4.0 e permettere allo studente di orientarsi nel panorama vario e complesso che la riguarda. Lo studente ricaverà il significato consapevole dei termini “industria 4.0” e “digitalizzazione” e l’ambito generale di interesse di ciò che riguardano.
 
-```button
-name Vai a transizione digitale
-type link
-action obsidian://vault/Introduzione alla trasformazione digitale/Materiale didattico/1.1 Transizione digitale
-color blue
-```
+[[Materiale didattico/1.1 Transizione digitale\|Inizia la transizione digitale ->]]
 
 ---
 
@@ -27,11 +22,4 @@ color blue
 
 ---
 
-```button
-name Homepage
-type command
-action Homepage: Open homepage
-color blue
-```
-^button-Homepage
-
+[[index\|Torna alla Home]]
