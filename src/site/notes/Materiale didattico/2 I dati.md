@@ -5,7 +5,7 @@
 
 L’attività formativa “I dati”, componente del programma di formazione in industria 4.0, è finalizzato all’analisi dell’elemento centrale della quarta epoca industriale: i dati. Si vuole con questa attività porre particolare attenzione alle caratteristiche dei dati: le fonti da cui essi possano essere ricavati, le modalità con cui essi debbano essere verificati, normalizzati, trasformati, utilizzati, protetti, archiviati e visualizzati. I dati sono l’elemento centrale di qualsiasi tema legato alla digitalizzazione. La corretta comprensione di essi è il necessario punto di partenza di qualsiasi valutazione ulteriore. Volendo immaginare qualsiasi progetto di digitalizzazione come un organismo, il dato rappresenterebbe l’atomo che lo costituisce. Qualsiasi attività legata all’Industria 4.0 dovrà necessariamente prevedere valutazioni relative ai temi trattati in questo componente del corso di formazione, riproponendola a vari livelli di approfondimento e nei disparati contesti di applicazione. Si vogliono fornire quindi tutte le informazioni utili allo studente per comprendere la natura dell’elemento costitutivo principale dell’industria 4.0, i dati, chiarendone l’importanza, dove si possano ricavare, le modalità con cui farlo e infine si affronteranno tematiche contestuali (ma non per questo secondarie) quali la “questione etica” e il tema della sicurezza dei dati.
 
-**prosegui a [[Materiale didattico/2.1 Cosa sono i dati\|2.1]]
+**prosegui a [[Materiale didattico/2.1 Cosa sono i dati\|2.1]]**
 
 ---
 
@@ -37,9 +37,4 @@ L’attività formativa “I dati”, componente del programma di formazione in 
 
 ---
 
-```button
-name Homepage
-type command
-action Homepage: Open homepage
-color blue
-```
+**[[Home - ITD\|Torna alla Home]]**
