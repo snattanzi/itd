@@ -1,5 +1,5 @@
 ---
-{"data":"02-12-2022","giorno":"venerdì","orario":"09-18","nrlezione":7,"luogo":"incitec","azienda":"incitec","tags":"notdone","dg-publish":true,"permalink":"/incitec/lezioni/cybersecurity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/incitec/lezioni/cybersecurity/"}
 ---
 
 
