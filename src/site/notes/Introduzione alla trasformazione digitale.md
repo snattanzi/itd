@@ -1,5 +1,5 @@
 ---
-{"livello":"intro","tags":"done","autore":"giovanni agostini","tipo":"materiale didattico","capitolo":0,"dg-home-link":true,"identificativo":1,"revisione":1,"dg-publish":true,"permalink":"/introduzione-alla-trasformazione-digitale/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"livello":"intro","tags":"done","autore":"giovanni agostini","tipo":"materiale didattico","capitolo":0,"identificativo":1,"revisione":1,"dg-publish":true,"permalink":"/introduzione-alla-trasformazione-digitale/","dgPassFrontmatter":true}
 ---
 
 ---
@@ -82,5 +82,5 @@ Il corso si potrà svolgere in presenza o da remoto, o con una soluzione mista, 
 
 ---
 
-[[index\|Torna alla Home]]
+[[Home - ITD\|Torna alla Home]]
 
