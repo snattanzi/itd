@@ -13,7 +13,6 @@ Abbiamo parlato di dati
 
 ---
 # Materiale didattico 
-- [[Materiale didattico/2 I dati\|2 I dati]]
 - [[Materiale didattico/2.1 Cosa sono i dati\|2.1 Cosa sono i dati]]
 - [[Materiale didattico/2.11 Sistemi di rete\|2.11 Sistemi di rete]]
 - [[Materiale didattico/2.12 Etica nell’uso dei dati\|2.12 Etica nell’uso dei dati]]
