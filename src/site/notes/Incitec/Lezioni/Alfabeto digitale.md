@@ -4,7 +4,7 @@
 
 Alfabeto digitale introduce gli aspetti generali legati all'Industria 4.0 e la digitalizzazione in generale. Si presenterà il panorama normativo di riferimento, l'origine e gli obiettivi della quarta rivoluzione industriale, iniziando a presentare alcune terminologie e logiche fondamentali.
 
->[note]- **Presentazione**   
+>[!note]- **Presentazione**   
 > [Link PDF](https://diapasonpolaris-my.sharepoint.com/personal/attanasio_polarisengineeringspa_com/Documents/POLARIS%20TECNICO/DOCUMENTI%20TECNICI/FORMAZIONE/FORMAZIONE%204.0/POLARIS_ACADEMY_rev00/01_Programma%20corso/01_Alfabeto%20Digitale/03_Presentazione%20power%20point/Formazione%204.0_%20alfabeto%20digitale.pdf)
 
 > [!note]- **Registro di presenza**  
