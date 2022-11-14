@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/incitec/lezioni/lean-production/"}
+{"data":"21-10-2022","giorno":"venerdì","orario":"09-18","nrlezione":4,"luogo":"incitec","azienda":"incitec","tags":"done","dg-publish":true,"permalink":"/incitec/lezioni/lean-production/","dgPassFrontmatter":true}
 ---
 
 Introduzione veloce
@@ -17,4 +17,4 @@ Introduzione veloce
 
 ---
 
-[[index\|Torna alla Home]]
+[[Home - ITD\|Torna alla Home]]
