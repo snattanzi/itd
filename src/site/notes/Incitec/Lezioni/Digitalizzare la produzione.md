@@ -1,5 +1,5 @@
 ---
-{"data":"04-11-2022","giorno":"venerdì","orario":"09-18","nrlezione":5,"luogo":"incitec","tags":"notdone","dg-publish":true,"permalink":"/incitec/lezioni/digitalizzare-la-produzione/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/incitec/lezioni/digitalizzare-la-produzione/"}
 ---
 
 L’attività formativa “05.Digitalizzare la produzione”, componente del programma di formazione in industria 4.0, è finalizzato ad inquadrare le possibilità a livello di digitalizzazione ricavabili dall’introduzione di essa nel contesto dei reparti di produzione.
