@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materiale-didattico/1-alfabeto-digitale/"}
+{"livello":"intro","tags":"done","autore":"ga","tipo":"doc.originale","capitolo":1,"identificativo":0,"revisione":1,"dg-publish":true,"permalink":"/materiale-didattico/1-alfabeto-digitale/","dgPassFrontmatter":true}
 ---
 
 
@@ -22,4 +22,4 @@ L’Obiettivo è quello, quindi, di introdurre le principali tematiche legate al
 
 ---
 
-[[index\|Torna alla Home]]
+[[Home - ITD\|Torna alla Home]]
