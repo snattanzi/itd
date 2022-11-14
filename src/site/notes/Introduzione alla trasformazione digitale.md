@@ -82,5 +82,5 @@ Il corso si potrà svolgere in presenza o da remoto, o con una soluzione mista, 
 
 ---
 
-[[Home - ITD\|Torna alla Home]]
+**[[Home - ITD\|Torna alla Home]]**
 
