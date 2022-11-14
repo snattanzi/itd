@@ -1,5 +1,5 @@
 ---
-{"data":"09-09-2022","giorno":"venerdì","orario":"09-18","nrlezione":1,"luogo":"incitec","azienda":"incitec","tags":"done","dg-publish":true,"permalink":"/incitec/lezioni/alfabeto-digitale/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/incitec/lezioni/alfabeto-digitale/"}
 ---
 
 Introduzione veloce
