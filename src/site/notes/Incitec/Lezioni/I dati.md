@@ -55,7 +55,7 @@ webbrowser.open_new_tab(url)
 ```
 ---
 
-**[[Incitec/Lezioni/Sistemi di riferimento\|Prossima lezione]]**
+**[[Incitec/Lezioni/Modelli di riferimento\|Prossima lezione]]**
 
 ---
 
