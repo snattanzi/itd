@@ -79,3 +79,12 @@ Il corso si potrà svolgere in presenza o da remoto, o con una soluzione mista, 
 
 ---
 [[index\|index]]
+
+
+```button
+name Torna alla home
+type link
+action https://itdpolaris.netlify.app/
+color blue
+```
+^button-home
