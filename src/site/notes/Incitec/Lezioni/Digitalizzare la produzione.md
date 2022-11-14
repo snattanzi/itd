@@ -9,7 +9,7 @@ L’attività formativa “05.Digitalizzare la produzione”, componente del pro
 ![[FORMAZ~1 1.ppt.pdf]]
 
 > [!note]- **Registro di presenza**  
-> ![[LEZIONE 9 - REGISTRO 14-09-2022.pdf]]
+> ![[LEZIONE 9 - REGISTRO 14-09-2022.pdf\|LEZIONE 9 - REGISTRO 14-09-2022.pdf]]
 
 > [!note]- **Note**
 > 
