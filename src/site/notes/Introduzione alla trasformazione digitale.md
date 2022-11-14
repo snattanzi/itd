@@ -78,13 +78,5 @@ Sarà possibile prevedere percorsi brevi, quantificabili indicativamente in sing
 Il corso si potrà svolgere in presenza o da remoto, o con una soluzione mista, in dipendenza delle esigenze del cliente. È di prossima realizzazione la possibilità di svolgere il corso su una piattaforma interattiva, Polaris Experience, che preveda la navigazione dei contenuti disponibili attraverso una proposta formativa interattiva e personalizzata.
 
 ---
-[[index\|index]]
+[[index\|Torna alla Home]]
 
-
-```button
-name Torna alla home
-type link
-action https://itdpolaris.netlify.app/
-color blue
-```
-^button-home
