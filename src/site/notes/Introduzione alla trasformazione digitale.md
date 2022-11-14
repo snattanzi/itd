@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduzione-alla-trasformazione-digitale/"}
+{"livello":"intro","tags":"done","autore":"giovanni agostini","tipo":"materiale didattico","capitolo":0,"dg-home-link":true,"identificativo":1,"revisione":1,"dg-publish":true,"permalink":"/introduzione-alla-trasformazione-digitale/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ---
