@@ -16,7 +16,7 @@ Si coglierà occasione per fare un breve riepilogo e concludere il percorso form
 
 **slides presentazione:** ![[Formazione 4.0_ Cybersecurity.pptx]]
 >[!note]- Registro presenze
->![[LEZIONE 9 - REGISTRO 14-09-2022.pdf]]
+>![[LEZIONE 9 - REGISTRO 14-09-2022.pdf\|LEZIONE 9 - REGISTRO 14-09-2022.pdf]]
 
 ---
 
