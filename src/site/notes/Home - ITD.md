@@ -1,5 +1,5 @@
 ---
-{"tags":["incitec, Home","gardenEntry"],"cssclass":"dashboard","dg-publish":true,"dg-home":true,"dg-enable-search":false,"permalink":"/home-itd/","dgEnableSearch":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home-itd/","tags":["incitec, Home","gardenEntry"],"dgShowBacklinks":false,"dgShowInlineTitle":false,"dgEnableSearch":false}
 ---
 
 
