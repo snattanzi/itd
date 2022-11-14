@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/incitec/lezioni/i-dati/"}
 ---
 
-Abbiamo parlato di dati
+L'attività formativa 02 fornisce un "focus" sui dati, elemento centrale di qualsiasi attività di digitalizzazione, fornendo definizioni e caratteristiche utili a meglio comprendere gli aspetti legati all'elemento strutturale minimo di qualsiasi sistema informatico. 
 
 > [!note]- **Presentazione**   
->
+> [Link Download](https://diapasonpolaris-my.sharepoint.com/:b:/g/personal/attanasio_polarisengineeringspa_com/EVcJgZapzZNNvI4O_rxGOs8Betx5-R_rdwswu3QB5LePaA?e=rK0IeR)
 
 > [!note]- **Registro di presenza**  
 
