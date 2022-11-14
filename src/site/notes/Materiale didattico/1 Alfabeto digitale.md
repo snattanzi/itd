@@ -21,4 +21,8 @@ L’Obiettivo è quello, quindi, di introdurre le principali tematiche legate al
 
 ---
 
+**[[Materiale didattico/2 I dati\|Vai a capito 2 - I dati]]
+
+---
+
 **[[Home - ITD\|Torna alla Home]]**
