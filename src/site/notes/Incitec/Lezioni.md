@@ -15,4 +15,4 @@
 
 ---
 
-[[Home - ITD\|Torna alla Home]]
+**[[Home - ITD\|Torna alla Home]]**
