@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/incitec/calendario/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/incitec/calendario/"}
 ---
 
 | Nome                        | orario | data       |
