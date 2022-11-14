@@ -14,6 +14,7 @@ Alfabeto digitale introduce gli aspetti generali legati all'Industria 4.0 e la d
 ---
 # Materiale didattico
 
+- [[Materiale didattico/1 Alfabeto digitale\|1 Alfabeto digitale]]
 - [[Materiale didattico/1.1 Transizione digitale\|1.1 Transizione digitale]]
 - [[Materiale didattico/1.2 Business Intelligence\|1.2 Business Intelligence]]
 - [[Materiale didattico/1.3 KPI\|1.3 KPI]]
@@ -26,4 +27,4 @@ Alfabeto digitale introduce gli aspetti generali legati all'Industria 4.0 e la d
 
 ---
 
-[[Home - ITD\|Torna alla Home]]
+**[[Home - ITD\|Torna alla Home]]**
