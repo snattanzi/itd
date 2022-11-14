@@ -1,5 +1,5 @@
 ---
-{"data":"18-11-2022","giorno":"venerdì","orario":"09-18","nrlezione":6,"luogo":"incitec","azienda":"incitec","tags":"notdone","title":"Intelligenza artificiale","allDay":false,"startTime":"09:00","endTime":"18:00","date":"2022-11-18","dg-publish":true,"permalink":"/incitec/lezioni/intelligenza-artificiale/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/incitec/lezioni/intelligenza-artificiale/"}
 ---
 
 
