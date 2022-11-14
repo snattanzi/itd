@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/incitec/calendario/"}
+{"dg-publish":true,"permalink":"/incitec/calendario/","dgPassFrontmatter":true}
 ---
 
 | Nome                        | orario | data       |
@@ -14,4 +14,4 @@
 
 
 ---
-[[index\|Torna alla Home]]
+[[Home - ITD\|Torna alla Home]]
