@@ -14,5 +14,12 @@
 
 
 ---
-
 [[index\|index]]
+
+```button
+name Torna alla home
+type link
+action https://itdpolaris.netlify.app/
+color blue
+```
+^button-home
