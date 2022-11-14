@@ -5,7 +5,7 @@
 
 - [[Incitec/Lezioni/Alfabeto digitale\|Alfabeto digitale]]
 - [[Incitec/Lezioni/I dati\|I dati]]
-- [[Incitec/Lezioni/Sistemi di riferimento\|Sistemi di riferimento]] 
+- [[Incitec/Lezioni/Modelli di riferimento\|Modelli di riferimento]] 
 - [[Incitec/Lezioni/Lean production\|Lean production]]
 	- [[📥Inbox/Test intermedio\|Test intermedio]]
 - [[Incitec/Lezioni/Digitalizzare la produzione\|Digitalizzare la produzione]]
