@@ -3,23 +3,20 @@
 ---
 
 
-### Contenuti
-L’attività formativa “07. Intelligenza artificiale”, componente del programma di formazione in industria 4.0, è finalizzata ad introdurre l’ambito tecnologico dell’intelligenza artificiale, a partire dalle origini di essa fino a chiarire aspetti generali e di dettaglio utili a meglio comprenderne le applicazioni specifiche. 
+L’attività formativa “07. Intelligenza artificiale”, componente del programma di formazione in industria 4.0, è finalizzata ad introdurre l’ambito tecnologico dell’intelligenza artificiale, a partire dalle origini di essa fino a chiarire aspetti generali e di dettaglio utili a meglio comprenderne le applicazioni specifiche. In questa lezione verranno presentati i temi relativi al modulo 08. Deep Learning, approfondimento dei temi legati all'intelligenza artificiale. 
 
-**Slide presentazione: 
-![[FORMAZ~1 2.ppt]]
+> [!note]- **Presentazione**   
+>[Link download PDF](https://diapasonpolaris-my.sharepoint.com/:f:/g/personal/attanasio_polarisengineeringspa_com/EiJp_vgWLJ9Hhp5PTRJBNZgBb9GUVp-cG9YYoITqlwqcew?e=rsDUEm)
 
+> [!note]- **Registro di presenza**  
+> ![[LEZIONE 9 - REGISTRO 14-09-2022.pdf\|LEZIONE 9 - REGISTRO 14-09-2022.pdf]]
 
-
----
-
-### Registro
-
----
-
-### Note
-
-- [ ] TEST
+> [!note]- **Note**
+> 
+>
+> - [ ] **Verrà recuperato il test intermedio**
+> 
+> ![[DT12_Test intermedio_Rev00.pdf]]
 
 ---
 
