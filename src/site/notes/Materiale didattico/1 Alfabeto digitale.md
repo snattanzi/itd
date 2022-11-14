@@ -1,5 +1,5 @@
 ---
-{"livello":"intro","tags":"done","autore":"ga","tipo":"doc.originale","capitolo":1,"identificativo":0,"revisione":1,"dg-publish":true,"permalink":"/materiale-didattico/1-alfabeto-digitale/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/materiale-didattico/1-alfabeto-digitale/"}
 ---
 
 
