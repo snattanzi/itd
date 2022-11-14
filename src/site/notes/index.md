@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["incitec, Home","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["incitec, Home","gardenEntry"],"dgEnableSearch":false}
 ---
 
 
