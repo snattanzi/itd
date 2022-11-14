@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/incitec/lezioni/"}
+{"dg-publish":true,"permalink":"/incitec/lezioni/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,4 +15,4 @@
 
 ---
 
-[[index\|Torna alla Home]]
+[[Home - ITD\|Torna alla Home]]
