@@ -14,8 +14,8 @@
 
 ---
 
-[[Incitec/Calendario\|Calendario]]
+**[[Incitec/Calendario\|Calendario]]**
 
-[[Incitec/Lezioni\|Lezioni]]
+**[[Incitec/Lezioni\|Lezioni]]**
 
-[[Introduzione alla trasformazione digitale\|Materiale didattico]]
+**[[Introduzione alla trasformazione digitale\|Materiale didattico]]**
