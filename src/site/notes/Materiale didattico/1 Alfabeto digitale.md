@@ -21,7 +21,7 @@ L’Obiettivo è quello, quindi, di introdurre le principali tematiche legate al
 
 ---
 
-**[[Materiale didattico/2 I dati\|Vai a capitolo 2 - I dati]]
+**[[Materiale didattico/2 I dati\|Vai a capitolo 2 - I dati]]**
 
 ---
 
