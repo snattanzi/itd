@@ -10,4 +10,6 @@ Esempi applicativi riferibili ad ambiti di applicazione specificatamente riferib
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d3YT8j0yYl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[Materiale didattico/1.1 Transizione digitale\|Torna a 1.1 transizione digitale]]
+---
+
+**[[Materiale didattico/1.1 Transizione digitale\|Torna a 1.1 transizione digitale]]**
