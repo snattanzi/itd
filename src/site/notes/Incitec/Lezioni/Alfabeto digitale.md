@@ -5,7 +5,7 @@
 Alfabeto digitale introduce gli aspetti generali legati all'Industria 4.0 e la digitalizzazione in generale. Si presenterà il panorama normativo di riferimento, l'origine e gli obiettivi della quarta rivoluzione industriale, iniziando a presentare alcune terminologie e logiche fondamentali.
 
 > [!note]- **Presentazione**   
-![[Formazione 4.0_ alfabeto digitale.pdf\|Formazione 4.0_ alfabeto digitale.pdf]]
+> ![[Formazione 4.0_ alfabeto digitale.pdf]]
 
 > [!note]- **Registro di presenza**  
 
